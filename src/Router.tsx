@@ -16,7 +16,6 @@ const router = createHashRouter(
           children: [
             {
               path: "movies/:movieId",
-              element: <></>,
             },
           ],
         },
@@ -26,7 +25,6 @@ const router = createHashRouter(
           children: [
             {
               path: ":tvId",
-              element: <></>,
             },
           ],
         },
@@ -36,7 +34,6 @@ const router = createHashRouter(
           children: [
             {
               path: ":id",
-              element: <></>,
             },
           ],
         },
