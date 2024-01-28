@@ -12,6 +12,7 @@
     "@types/react-dom": "^18.2.18",
     "apexcharts": "^3.45.1",
     "dayjs": "^1.11.10",
+    "framer-motion": "^11.0.3",
     "gh-pages": "^6.1.1",
     "react": "^18.2.0",
     "react-apexcharts": "^1.4.1",
@@ -57,5 +58,5 @@
     "@types/react-helmet": "^6.1.11",
     "@types/styled-components": "^5.1.34"
   },
-  "homepage": "https://taemin-dev.github.io/react-challenge-todos/"
+  "homepage": "https://taemin-dev.github.io/react-challenge-netflix/"
 }
