@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-challenge-netflix/static/js/main.74efef34.js",
+    "main.js": "/react-challenge-netflix/static/js/main.3285b60e.js",
     "index.html": "/react-challenge-netflix/index.html",
-    "main.74efef34.js.map": "/react-challenge-netflix/static/js/main.74efef34.js.map"
+    "main.3285b60e.js.map": "/react-challenge-netflix/static/js/main.3285b60e.js.map"
   },
   "entrypoints": [
-    "static/js/main.74efef34.js"
+    "static/js/main.3285b60e.js"
   ]
 }
