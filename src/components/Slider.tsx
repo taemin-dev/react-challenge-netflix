@@ -41,11 +41,11 @@ const Box = styled(motion.div)<{ bgphoto: string }>`
   display: flex;
   justify-content: center;
   align-items: center;
-  &:first-child {
-    transform-origin: center left;
-  }
   &:last-child {
     transform-origin: center right;
+  }
+  &:first-child {
+    transform-origin: center left;
   }
 `;
 
